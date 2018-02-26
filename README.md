@@ -1,5 +1,4 @@
 ## 展示一个文件夹中的所有图片:framed_picture:
-------------------------------------
 
 [Demo](http://ngu.in/show-all-images-in-a-folder-with-php/)
 
