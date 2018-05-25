@@ -1,4 +1,5 @@
 ## 展示一个文件夹中的所有图片:framed_picture:
+[![](https://github.styleci.io/repos/122910081/shield?branch=master)](https://github.styleci.io/analyses/XVLQaB#)
 
 [Demo](http://ngu.in/show-all-images-in-a-folder-with-php/)
 
